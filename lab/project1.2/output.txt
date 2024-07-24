@@ -1,0 +1,36 @@
+Line: x32 := 36 - y;
+x32 : Identifier
+:= : Symbol
+36 : Number
+- : Symbol
+y : Identifier
+; : Symbol
+
+Line: if y then
+if : Keyword
+y : Identifier
+then : Keyword
+
+Line: x32 :=0; skip
+x32 : Identifier
+0 : Number
+:= : Symbol
+; : Symbol
+skip : Keyword
+
+Line: else
+else : Keyword
+
+Line: whiley := 12^2;
+whiley : Identifier
+:= : Symbol
+^ : Error reading "^"
+
+Line: z:= x32
+z : Identifier
+:= : Symbol
+x32 : Identifier
+
+Line: endif
+endif : Keyword
+

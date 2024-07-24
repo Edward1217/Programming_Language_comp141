@@ -1,0 +1,9 @@
+Line: cxo6y / 67z23 * 56& 34 * x
+Line: cxo6y / 67z23 * 56& 34 * x
+ERROR READING &
+Identifier : cxo6y
+Symbol : /
+Number : 67
+Identifier : z23
+Symbol : *
+Number : 56

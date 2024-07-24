@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/pan/Desktop/UOP 2024 spring semester/Programming language/lab/lab2/test",
+      "program": "/Users/pan/Desktop/UOP 2024 spring semester/Programming language/lab/lab2/test/build/Debug/outDebug"
+    }
+  ]
+}

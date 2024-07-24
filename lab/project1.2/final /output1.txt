@@ -1,0 +1,13 @@
+Line: 3 * (5 + 2 / x - 1)
+3 : Number
+* : Symbol
+5 : Number
+( : Symbol
++ : Symbol
+2 : Number
+/ : Symbol
+x : Identifier
+- : Symbol
+1 : Number
+) : Symbol
+

@@ -1,0 +1,39 @@
+Tokens:
+SYMBOL (
+NUMBER 1
+SYMBOL +
+IDENTIFIER qq
+SYMBOL -
+NUMBER 2
+SYMBOL *
+NUMBER 4
+SYMBOL )
+SYMBOL +
+IDENTIFIER c4
+SYMBOL -
+IDENTIFIER s
+SYMBOL *
+NUMBER 2
+SYMBOL /
+NUMBER 4
+SYMBOL +
+NUMBER 2
+
+AST:
++
+  -
+    +
+      -
+        +
+          1
+          qq
+        *
+          2
+          4
+      c4
+    /
+      *
+        s
+        2
+      4
+  2

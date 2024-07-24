@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/pan/Desktop/UOP 2024 spring semester/Programming language/lab/extra point mini project",
+      "program": "/Users/pan/Desktop/UOP 2024 spring semester/Programming language/lab/extra point mini project/build/Debug/outDebug"
+    }
+  ]
+}

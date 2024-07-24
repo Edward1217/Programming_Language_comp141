@@ -1,0 +1,22 @@
+Tokens:
+NUMBER : 3
+SYMBOL : *
+SYMBOL : (
+NUMBER : 5
+SYMBOL : +
+NUMBER : 2
+SYMBOL : /
+IDENTIFIER : x
+SYMBOL : -
+NUMBER : 1
+SYMBOL : )
+AST:
+* : SYMBOL
+        3 : NUMBER
+        - : SYMBOL
+                + : SYMBOL
+                        5 : NUMBER
+                        / : SYMBOL
+                                2 : NUMBER
+                                x : IDENTIFIER
+                1 : NUMBER

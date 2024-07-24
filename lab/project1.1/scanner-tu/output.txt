@@ -1,0 +1,22 @@
+Line: 34 + 89 - x * y23
+34 : Number
++ : Symbol
+89 : Number
+- : Symbol
+x : Identifier
+* : Symbol
+y23 : Identifier
+Line: cxo6y / 67z23 * 56& 34 * x
+cxo6y : Identifier
+/ : Symbol
+z23 : Error
+67 : Number
+* : Symbol
+56 : Number
+& : Error
+34 : Number
+x : Identifier
+Line: 2 + x
+2 : Number
++ : Symbol
+x : Identifier
